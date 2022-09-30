@@ -5,7 +5,7 @@
 </p>
 
 ### 🛠  Descrição
-
+ 
 </br> 
 
 O projeto tem como objetivo uma página de coming soon para o lançamento de um site. 
